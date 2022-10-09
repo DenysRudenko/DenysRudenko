@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @DenysRudenko
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<!---
-DenysRudenko/DenysRudenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<p>Welcome to my page! </br> I'm Denys, Fullstack student from <img src="" width="13"/> <b>Kyiv, Ukraine</b>, currently living in <img src="" width="13"/> <b>Dublin, Ireland</b>. </p>
